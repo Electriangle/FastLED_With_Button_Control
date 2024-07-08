@@ -83,7 +83,7 @@ void loop() {
 
       break;
 
-    // Add more cases as desired...
+    // Add more cases as desired and update the NUM_ANIMATIONS value above...
 
     default:
       // Turn OFF all the LEDs
